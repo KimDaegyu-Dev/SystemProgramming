@@ -1,0 +1,2 @@
+C:\Users\eorbr\OneDrive\문서\GitHub\asmWork\Project32_VS2022\Debug\Project.exe
+C:\Users\eorbr\OneDrive\문서\GitHub\asmWork\p150_4\Debug\Project.exe

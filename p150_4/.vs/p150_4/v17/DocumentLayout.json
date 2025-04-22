@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eorbr\\OneDrive\\\uBB38\uC11C\\GitHub\\asmWork\\p150_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eorbr\\OneDrive\\\uBB38\uC11C\\GitHub\\asmWork\\p150_4\\Project.lst||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.lst||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eorbr\\OneDrive\\\uBB38\uC11C\\GitHub\\asmWork\\p150_4\\AddSub2.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddSub2.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eorbr\\OneDrive\\\uBB38\uC11C\\GitHub\\asmWork\\p150_4\\AddTwo.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddTwo.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project.lst",
+              "DocumentMoniker": "C:\\Users\\eorbr\\OneDrive\\\uBB38\uC11C\\GitHub\\asmWork\\p150_4\\Project.lst",
+              "RelativeDocumentMoniker": "Project.lst",
+              "ToolTip": "C:\\Users\\eorbr\\OneDrive\\\uBB38\uC11C\\GitHub\\asmWork\\p150_4\\Project.lst",
+              "RelativeToolTip": "Project.lst",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T23:49:56.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTwo.asm",
+              "DocumentMoniker": "C:\\Users\\eorbr\\OneDrive\\\uBB38\uC11C\\GitHub\\asmWork\\p150_4\\AddTwo.asm",
+              "RelativeDocumentMoniker": "AddTwo.asm",
+              "ToolTip": "C:\\Users\\eorbr\\OneDrive\\\uBB38\uC11C\\GitHub\\asmWork\\p150_4\\AddTwo.asm",
+              "RelativeToolTip": "AddTwo.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T23:47:38.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddSub2.asm",
+              "DocumentMoniker": "C:\\Users\\eorbr\\OneDrive\\\uBB38\uC11C\\GitHub\\asmWork\\p150_4\\AddSub2.asm",
+              "RelativeDocumentMoniker": "AddSub2.asm",
+              "ToolTip": "C:\\Users\\eorbr\\OneDrive\\\uBB38\uC11C\\GitHub\\asmWork\\p150_4\\AddSub2.asm",
+              "RelativeToolTip": "AddSub2.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T23:46:23.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
